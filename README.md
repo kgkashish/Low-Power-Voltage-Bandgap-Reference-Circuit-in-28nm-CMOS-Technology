@@ -114,14 +114,16 @@ v39 vdd_1 gnd! dc=0 pulse ( 0 1.8 100u 100u 100u 0.5 1 )
 
 
 .end
+```
 
 # References
-[1]  H. Banba, H. Shiga, S. Umezawa, T. Miyaba, T.Tanzawa, S. Atsumi, K.Sakui, “A CMOS Bandgap Reference Circuit with Sub-1-V Operation,” IEEE  
-     J.SolidStateCircuits, vol. 34, pp. 670–674, May 1999.
-[2]  A. K. Singh, P. K. Pal, and M. Pattanaik, “A wide temperature range voltage bandgap reference generator in 32nm CMOS technology”, in IEEE Global Conference 
-     on Communication Technologies (GCCT), pp. 696-699, 2015. 
-[3]  Adimulam, M. K., and K. K. Movva. ”A lowpower CMOS current mode bandgap reference circuit with low temperature coefficient of output voltage,” In 
-     Microelectronics and Electronics (PrimeAsia), 2012 Asia Pacific Conference on Postgraduate Research in, pp. 144-149. 2012.
+
+[1] H. Banba, H. Shiga, S. Umezawa, T. Miyaba, T.Tanzawa, S. Atsumi, K.Sakui, “A CMOS Bandgap Reference Circuit with Sub-1-V Operation,” IEEE J.SolidStateCircuits, vol. 34, pp. 670–674, May 1999.
+
+[2] A. K. Singh, P. K. Pal, and M. Pattanaik, “A wide temperature range voltage bandgap reference generator in 32nm CMOS technology”, in IEEE Global Conference
+on Communication Technologies (GCCT), pp. 696-699, 2015.
+
+[3] Adimulam, M. K., and K. K. Movva. ”A lowpower CMOS current mode bandgap reference circuit with low temperature coefficient of output voltage,” In Microelectronics and Electronics (PrimeAsia), 2012 Asia Pacific Conference on Postgraduate Research in, pp. 144-149. 2012.
 
 # Acknowledgements
 
